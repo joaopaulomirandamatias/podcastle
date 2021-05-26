@@ -1,6 +1,6 @@
-# podcastle
+# Podcastle
 
-Podcastle o Podcastr em flutter
+Podcastle o Podcastr criado na #NLW05 da Rocketseat só que a versão em flutter com acréssimo de alguns recursos.
 
 ## Getting Started
 
